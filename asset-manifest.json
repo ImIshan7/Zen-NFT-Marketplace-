@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Zen-NFT-Marketplace-/static/css/main.18328053.css",
+    "main.js": "/Zen-NFT-Marketplace-/static/js/main.28079e6c.js",
+    "static/js/453.0576cdb2.chunk.js": "/Zen-NFT-Marketplace-/static/js/453.0576cdb2.chunk.js",
+    "static/media/featured01.jpg": "/Zen-NFT-Marketplace-/static/media/featured01.36d9ab89f95e40b73221.jpg",
+    "static/media/Articles01.jpg": "/Zen-NFT-Marketplace-/static/media/Articles01.ff9c350ab80b434bdd63.jpg",
+    "static/media/trending02.jpg": "/Zen-NFT-Marketplace-/static/media/trending02.1574c1db2114167a93f8.jpg",
+    "static/media/trending01.jpg": "/Zen-NFT-Marketplace-/static/media/trending01.a311205e9c4b3fdc4583.jpg",
+    "static/media/event01.jpg": "/Zen-NFT-Marketplace-/static/media/event01.7c9f42eacee0d97ef5e7.jpg",
+    "static/media/event02.jpg": "/Zen-NFT-Marketplace-/static/media/event02.5fadb1f03e274ce194af.jpg",
+    "static/media/Articles02.jpg": "/Zen-NFT-Marketplace-/static/media/Articles02.8db5a1a63b9948372706.jpg",
+    "static/media/featured02.jpg": "/Zen-NFT-Marketplace-/static/media/featured02.d32db6c1e09906bbccd3.jpg",
+    "index.html": "/Zen-NFT-Marketplace-/index.html",
+    "main.18328053.css.map": "/Zen-NFT-Marketplace-/static/css/main.18328053.css.map",
+    "main.28079e6c.js.map": "/Zen-NFT-Marketplace-/static/js/main.28079e6c.js.map",
+    "453.0576cdb2.chunk.js.map": "/Zen-NFT-Marketplace-/static/js/453.0576cdb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18328053.css",
+    "static/js/main.28079e6c.js"
+  ]
+}
